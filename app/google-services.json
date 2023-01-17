@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680741739975",
+    "project_id": "data-auth-41794",
+    "storage_bucket": "data-auth-41794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680741739975:android:7c171a3c45f9d9d40ecde2",
+        "android_client_info": {
+          "package_name": "com.example.data_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680741739975-2ms9qub180svvertcbu8omhp86nm79rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDwV21Eb4uv4t2zLVlcNKw3oG7Cm9tV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680741739975-2ms9qub180svvertcbu8omhp86nm79rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
